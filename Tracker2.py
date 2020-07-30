@@ -26,5 +26,5 @@ while True:
       else:
         print("else")
     if i == 20:
-      print("You got your goal! Your total punches are " + Fullsteps)
+      print("You got your goal! Your total punches are " + str(Fullsteps))
         
